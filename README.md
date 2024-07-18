@@ -1,0 +1,4 @@
+- Hi
+- Systems engineering in process
+- I hate tech grifters, hacker ethics rocks
+- Linux user btw
