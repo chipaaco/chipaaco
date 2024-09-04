@@ -1,4 +1,3 @@
 - Hi
-- I hate tech grifters
 - Systems engineering in process
 - Linux user btw
