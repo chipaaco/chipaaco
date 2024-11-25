@@ -1,3 +1,1 @@
-- Hi
-- Systems engineering in process
-- Linux user btw
+3E 88 32 00 C0 18 FE
